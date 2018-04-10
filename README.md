@@ -1,1 +1,2 @@
-# jwp-quickdelete
+# WordPress плагин JWP-QuickDelete
+Небольшой плагин, который позволяет удалять записи минуя корзину
